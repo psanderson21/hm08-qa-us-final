@@ -30,7 +30,7 @@ exports.config = {
 ],
     logLevel: 'error',
     bail: 0,
-    baseUrl: 'https://cnt-370ed386-1f5c-4bc2-8f58-67d51510fe4e.containerhub.tripleten-services.com',
+    baseUrl: 'https://cnt-cc7dd6fa-f20b-487a-8799-81f4c4aded4b.containerhub.tripleten-services.com',
     waitforTimeout: 10000,
     connectionRetryTimeout: 120000,
     connectionRetryCount: 3,
